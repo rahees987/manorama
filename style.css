@@ -1,0 +1,221 @@
+.heading
+{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color: wheat;
+}
+.heading > ul
+{
+    padding-top: 10px;
+}
+.heading > ul > li 
+{
+    display: inline;
+    margin-right: 10px;
+}
+.login 
+{
+    float: right;
+    color: wheat;
+    margin-top: -27px;
+    margin-right: 100px;
+}
+.baner > img
+{
+margin-left: 200px;
+margin-top: 20px;
+}
+.date > p
+{
+    color: gray;
+    margin-left: 50px;
+    font-size: small;
+}
+.menu
+{
+    float: right;
+    font-size: small;
+    color: black;
+    margin-top: -41px;
+}
+.menu > ul > li
+{
+    display: inline;
+    margin-right: 10px;
+}
+.section
+{
+    margin-left: 100px;
+    border: solid;
+    width: 100px;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    border-color:lightgrey;
+}
+.logo
+{
+    margin-left: 450px;
+    margin-top: -40px;
+}
+.menu1
+{
+border-top: 5px solid;
+}
+.menu1 > ul > li
+{
+    list-style-type: none;
+    display: inline;
+    margin-right: 24px;
+}
+.baner2 > img
+{
+    margin-left: 150px;
+}
+.box1
+{
+    width: 300px;
+    height: 120px;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+.box1 > p 
+{
+    margin-left: 120px;
+    margin-top: -110px;
+    font-size: small;
+    font-weight: bold;
+}
+.box2
+{
+width: 300px;
+height: 120px;
+margin-left: 325px;
+background-color: cadetblue;
+padding: 10px;
+border-radius: 5px;
+margin-top: -140px;
+}
+.box2 > p
+{
+    margin-left: 120px;
+    margin-top: -110px;
+    font-size: small;
+    font-weight: bold;
+}
+.box3
+{
+    width: 300px;
+    height: 120px;
+    margin-left: 650px;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: -140px;
+}
+.box3 > p
+{
+    margin-left: 120px;
+    margin-top: -120px;
+    font-size: small;
+    font-weight: bold;
+}
+.box4
+{
+    width: 300px;
+    height: 120px;
+    margin-left: 975px;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: -140px;
+}
+.box4 > p
+{
+    margin-left: 120px;
+    margin-top: -130px;
+    font-size: small;
+    font-weight: bold;
+}
+.news1
+{
+    margin-bottom: 100px; 
+    margin-left: 50px;
+    width: 400px;
+}
+.news1 > p
+{
+    margin-top: -330px;
+}
+.news1 > img
+{
+    margin-top: 70px;
+}
+.news2
+{
+width:300px;
+height: 120px;
+margin-left:550px;
+margin-top: -150px;
+}
+.news2 > p
+{
+    width: 350px;
+    font-size: small;
+    margin-left: 95px;
+    margin-top: -45px;
+}
+.news3
+{
+    width: 300px;
+    height: 120px;
+    margin-left: 550px;
+    margin-top: -50px;
+}
+.news3 > p
+{
+    width: 350px;
+    font-size: small;
+    margin-left: 95px;
+    margin-top: -50px;
+}
+.news4
+{
+width: 300px;
+height: 120px;
+margin-left: 550px;
+margin-top: -50px;
+}
+.news4 > p
+{
+    width: 350px;
+    font-size: small;
+    margin-left: 95px;
+    margin-top: -51px;
+}
+.news5
+{
+    width: 300px;
+    height: 120px;
+    margin-left: 550px;
+    margin-top: -55px;
+}
+.news5 > p
+{
+    width:300px;
+    font-size: small;
+    margin-left: 95px;
+    margin-top: -55px;
+}
+.add1
+{
+    margin-left: 1000px;
+    margin-top: -350PX;
+}
+.add2
+{
+    margin-left: 1100px;
+    margin-top: 10px;
+}
